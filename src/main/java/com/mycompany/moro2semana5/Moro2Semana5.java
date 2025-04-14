@@ -1,6 +1,6 @@
-package com.mycompany.moro2semana5; // Paquete del proyecto
+package com.mycompany.moro2semana5; 
 
-import java.util.Scanner; // Importamos la clase Scanner para leer entradas del usuario
+import java.util.Scanner; 
 
 public class Moro2Semana5 {
 
